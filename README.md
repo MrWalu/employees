@@ -1,2 +1,2 @@
 # employees
-OOP program to magane employees
+OOP program to manage employees
